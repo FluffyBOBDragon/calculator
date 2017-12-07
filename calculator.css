@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 .box {
-		background-color: #E793F5;
+		background-color: #F8BCF8;
 		height: 300px;
 		width: 250px;
 		border-radius: 10px;
@@ -22,7 +22,7 @@
 	position: relative;
 	left: 2px;
 	top: 2px;
-	height: 30px:
+	height: 30px;
 	width: 210px;
 	color: black;
 	background-color: #bccd95;
