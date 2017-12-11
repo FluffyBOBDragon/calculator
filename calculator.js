@@ -1,13 +1,16 @@
 // JavaScript Document
+
+function v(val) {
+	document.getElementById("d").value += val;
+}
+
+/*
 function d(val) {
 	document.getElementById("d").value=val;
 }
 function v(val) {
-	document.getElementById("d".value+= val;
-}
-
-function v(val) {
 	document.getElementById("d").value += val;
+
 }
 
 function e(){
@@ -17,4 +20,4 @@ function e(){
 	catch(err) {
 		d("Error");
 	}
-}
+}*/
