@@ -1,10 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
 .box {
-		background-color: #8BA4FF;
-		height: 300px;
+		/*
+		background-image: url("thor.gif");
+		*/
+		background-color:#EEC0FF;
+		height: 325px;
 		width: 250px;
-		border-radius: 10px;
+		border-radius: 50px;
 		position: relative;
 		top: 80px;
 		left: 40%;
